@@ -1,0 +1,19 @@
+id: bac18724a84344b793c6be8e850615a1
+annotation_type: Segment
+revision: '00001'
+annotations:
+  db6a0bed113e48b6b3dd52e6948818fc:
+    span:
+      start: 0
+      end: 35
+    metadata: {}
+  e73d4464ae7c4448ba9a8393bc53ca74:
+    span:
+      start: 37
+      end: 1268
+    metadata: {}
+  ba6d935bf5fe4dcc9e40f55fa308f092:
+    span:
+      start: 1270
+      end: 1329
+    metadata: {}
