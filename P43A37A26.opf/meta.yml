@@ -1051,3 +1051,8 @@ source_metadata:
       parent: Tantra
 created_at: '2022-02-28T23:52:09.236659'
 last_modified_at: '2022-02-28T23:52:09.236662'
+statistics:
+  total_words: 167316
+  total_non_words: 16319
+quality:
+  non_words_ratio: 0.1
